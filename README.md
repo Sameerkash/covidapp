@@ -13,6 +13,13 @@ The entire documnetation is available on the repo.
 
 < name >_widget.dart for custom widgets 
 
+## Contributing 
+
+* Fork the repo.
+* Clone it.
+* Create and checkout to branch < feature_name >. 
+* Submit a Pull Request. 
+
 
 
 
