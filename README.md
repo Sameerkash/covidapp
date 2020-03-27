@@ -1,6 +1,5 @@
 # Covid-19 App
 
-
 A Flutter app to display the spread of covid-19 in India.
 
 API 
