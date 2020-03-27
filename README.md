@@ -9,9 +9,9 @@ The detilas of the API being use is [api-covid19-in](https://github.com/amodm/ap
 The entire documnetation is available on the repo.
 
 ## Use the following naming conventions
-<name>_screen.dart for UI screens 
+< name >_screen.dart for UI screens 
 
-<name>_widget.dart for custom widgets 
+< name >_widget.dart for custom widgets 
 
 
 
