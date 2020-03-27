@@ -1,16 +1,17 @@
-# covidapp
+# Covid-19 App
 
-A new Flutter project.
 
-## Getting Started
+A Flutter app to display the spread of covid-19 in India.
 
-This project is a starting point for a Flutter application.
+API 
+The detilas of the API being use is [api-covid19-in](https://github.com/amodm/api-covid19-in)
+The entire documnetation is available on the repo.
 
-A few resources to get you started if this is your first Flutter project:
+## Use the following naming conventions
+<\name>_screen.dart for UI screens 
+<\name>_widget.dart for custom widgets 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
