@@ -19,6 +19,8 @@ The entire documnetation is available on the repo.
 * Create and checkout to branch < feature_name >. 
 * Submit a Pull Request. 
 
+Please submit screenshots in PR and document your code
+
 
 
 
