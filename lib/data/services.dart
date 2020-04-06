@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'models.dart';
+import './models/response.dart';
  
    const String url = "https://api.rootnet.in/covid19-in/stats/latest";
  

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../data/models.dart';
+import '../data/models/response.dart';
 import '../data/services.dart';
 
 class HomeScreen extends StatefulWidget {
